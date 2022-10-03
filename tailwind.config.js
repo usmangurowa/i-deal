@@ -10,8 +10,8 @@ module.exports = {
     themes: [
       {
         directEd: {
-          primary: "#395241",
-          "primary-light": "#6B8065",
+          primary: "#0F3601",
+          "primary-light": "#26740A",
           accent: "#F3EEE2",
           light: "#FDFDFD",
           dark: "#374756",
@@ -28,8 +28,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#395241",
-        "primary-light": "#6B8065",
+        primary: "#0F3601",
+        "primary-light": "#26740A",
         accent: "#F3EEE2",
         light: "#FDFDFD",
         light2: "#F3EEE2",
